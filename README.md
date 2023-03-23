@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohis06&show_icons=true&&count_private=true&&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohis06&hide_progress=true)](https://github.com/rohis06/github-readme-stats)
