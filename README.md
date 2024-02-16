@@ -1,23 +1,26 @@
-### Hi there 👋
+## Hi there 👋
 
-You can learn more about me at [rohith_raj_srinivasan](https://rohis06.github.io/rohith_raj_srinivasan/) (My Portfolio)
-<!--
-**rohis06/rohis06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Rohith Raj Srinivasan**, a passionate computer scientist currently pursuing my Master of Science in Computer Science at the University of California, Davis. You can learn more about me and my projects on [My Portfolio](https://rohis06.github.io/rohith_raj_srinivasan/).
 
-Here are some ideas to get you started:
+🔭 **Currently Working On:** Enhancing my skills in machine learning, deep learning, and distributed systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently Learning:** Exploring advanced techniques in machine learning and diving deeper into distributed systems.
 
-<!--
+💬 **Ask Me About:** My experience as a Software Engineer at Cisco and Samsung Research, my projects in software engineering, or anything related to computer science!
+
+📫 **How to Reach Me:** Feel free to reach out to me via email at [rrsri@ucdavis.edu](mailto:rrsri@ucdavis.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/rohith-raj-s/).
+
+😄 **Pronouns:** He/Him
+
+⚡ **Fun Fact:** I'm an AWS Certified Developer - Associate and an Oracle Certified Associate Java SE 8 Programmer!
+
+---
+
 ![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohis06&show_icons=true&&count_private=true&&include_all_commits=true)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohis06&hide_progress=true)](https://github.com/rohis06/github-readme-stats)
--->
+
+<!--🚀 **Top Languages:** [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohis06&hide_progress=true)](https://github.com/rohis06/github-readme-stats)-->
+
+---
+
+Feel free to explore my repositories and reach out for collaboration or inquiries!
+
