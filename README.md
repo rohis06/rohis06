@@ -18,7 +18,7 @@ I'm **Rohith Raj Srinivasan**, a passionate Software Engineer currently pursuing
 
 <!--![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohis06&show_icons=true&&count_private=true&&include_all_commits=true)-->
 
-![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohis06\&rank_icon=github\&count_private=true\&include_all_commits=true\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohis06\&rank_icon=github\&count_private=true\&include_all_commits=true\&bg_color=42b6f5,0e338a,050238\&title_color=fff\&text_color=fff)
 
 <!--🚀 **Top Languages:** [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohis06&hide_progress=true)](https://github.com/rohis06/github-readme-stats)-->
 
