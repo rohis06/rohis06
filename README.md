@@ -4,7 +4,7 @@ I'm **Rohith Raj Srinivasan**, a passionate Software Engineer currently pursuing
 
 🔭 **Currently Working On:** Enhancing my skills in machine learning, deep learning, and distributed systems.
 
-🌱 **Currently Learning:** Exploring advanced techniques in machine learning and diving deeper into distributed systems.
+🌱 **Currently Learning:** Advanced techniques in machine learning and diving deeper into distributed systems.
 
 💬 **Ask Me About:** My experience as a Software Engineer at Cisco and Samsung Research, my projects in software engineering, or anything related to computer science!
 
