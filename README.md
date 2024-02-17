@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Rohith Raj Srinivasan**, a passionate computer scientist currently pursuing my Master of Science in Computer Science at the University of California, Davis. You can learn more about me and my projects on [My Portfolio](https://rohis06.github.io/rohith_raj_srinivasan/).
+I'm **Rohith Raj Srinivasan**, a passionate Software Engineer currently pursuing my Master of Science in Computer Science at the University of California, Davis. You can learn more about me and my projects on [My Portfolio](https://rohis06.github.io/rohith_raj_srinivasan/).
 
 🔭 **Currently Working On:** Enhancing my skills in machine learning, deep learning, and distributed systems.
 
