@@ -14,8 +14,6 @@ I'm **Rohith Raj Srinivasan**, a passionate Software Engineer currently pursuing
 <a href="https://www.linkedin.com/in/rohith-raj-s/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:rrsri@ucdavis.edu" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
 
-😄 **Pronouns:** He/Him
-
 ⚡ **Fun Fact:** I'm an AWS Certified Developer - Associate and an Oracle Certified Associate Java SE 8 Programmer!
 
 ---
