@@ -8,7 +8,11 @@ I'm **Rohith Raj Srinivasan**, a passionate Software Engineer currently pursuing
 
 💬 **Ask Me About:** My experience as a Software Engineer at Cisco and Samsung Research, my projects in software engineering, or anything related to computer science!
 
-📫 **How to Reach Me:** Feel free to reach out to me via email at [rrsri@ucdavis.edu](mailto:rrsri@ucdavis.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/rohith-raj-s/).
+<!--📫 **How to Reach Me:** Feel free to reach out to me via email at [rrsri@ucdavis.edu](mailto:rrsri@ucdavis.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/rohith-raj-s/).-->
+📫 **How to Reach Me:**
+
+<a href="https://www.linkedin.com/in/rohith-raj-s/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:rrsri@ucdavis.edu" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
 
 😄 **Pronouns:** He/Him
 
