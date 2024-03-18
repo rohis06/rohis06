@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 ![Visit counter](https://komarev.com/ghpvc/?username=rohis06&color=green)
 
 I'm **Rohith Raj Srinivasan**, a passionate Software Engineer currently pursuing my Master of Science in Computer Science at the University of California, Davis. You can learn more about me and my projects on [My Portfolio](https://rohis06.github.io/rohith_raj_srinivasan/).
 
